@@ -5,7 +5,7 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2017-03-13T17:30:49Z</time>
+    <time>2017-03-14T04:38:28Z</time>
     <bounds maxlat="23.881655" maxlon="121.438989" minlat="23.733172" minlon="121.326068"/>
   </metadata>
 
@@ -27,20 +27,6 @@
     <time>2017-03-10T23:09:59Z</time>
     <name>540 M</name>
     <sym>Flag, Blue</sym>
-    <extensions>
-      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-    </extensions>
-  </wpt>
-
-  <wpt lat="23.857756" lon="121.366951">
-    <ele>500.000000</ele>
-    <time>2017-03-03T12:14:37Z</time>
-    <name>一般車輛能到達處</name>
-    <cmt>500 公尺</cmt>
-    <desc>500 公尺</desc>
-    <sym>Flag, Red</sym>
     <extensions>
       <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v2 http://www.garmin.com/xmlschemas/GpxExtensions/v2/GpxExtensionsv2.xsd">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
@@ -219,9 +205,8 @@
     </extensions>
   </wpt>
 
-  <wpt lat="23.858178" lon="121.365939">
-    <ele>418.911133</ele>
-    <time>2017-03-04T06:20:29Z</time>
+  <wpt lat="23.858161" lon="121.366911">
+    <time>2017-03-14T04:37:50Z</time>
     <name>大門牙</name>
     <sym>Flag, Blue</sym>
     <extensions>
